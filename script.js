@@ -56,6 +56,5 @@ async function foo(){
       explain.innerHTML=`TAMIL EXPLANATION :${result1.tam_exp}`;
 
 
-
 }
 }
